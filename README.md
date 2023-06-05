@@ -1,9 +1,9 @@
 # SQL-Queries-Practice-with-a-real-world-Dataset
-In this Project, I'll write SQL Queries using a real dataset downloaded from the internet. The dataset is downloaded from Kaggle and will be used to write SQL Queries to fetch different information from the dataset.
+In this Project, I'll write SQL Queries using a real dataset downloaded from the internet. The dataset is from Kaggle and will be used to write SQL Queries to fetch different information from the dataset.
 
 Understanding the underlying data stored across different tables will make it much easier to write SQL queries. And that is why I will use real data (real dataset) to write SQL queries in this Project.
 
-I start this project by downloading the Olympics history dataset from kaggle website. I then load this dataset into a PostgreSQL database. Meaning we store this data into database tables. Once the data is stored in tables, I then write SQL queries to fetch different information about the history of Olympic games.
+First I load this dataset into a SQLite database. Meaning we store this data into database tables. Once the data is stored in tables, I then write SQL queries to fetch different information about the history of Olympic games.
 
 (I have come up with 20 different SQL queries which we can write on this Olympics dataset below) : 
 
