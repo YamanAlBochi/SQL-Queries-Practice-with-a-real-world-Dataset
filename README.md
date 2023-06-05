@@ -5,7 +5,7 @@ Understanding the underlying data stored across different tables will make it mu
 
 I start this project by downloading the Olympics history dataset from kaggle website. I then load this dataset into a PostgreSQL database. Meaning we store this data into database tables. Once the data is stored in tables, I then write SQL queries to fetch different information about the history of Olympic games.
 
-(I have come up with 20 different SQL queries which we can write on this Olympics dataset below:)
+(I have come up with 20 different SQL queries which we can write on this Olympics dataset below) : 
 
 1- How many olympics games have been held?
 
