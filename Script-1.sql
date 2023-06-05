@@ -1,1 +1,0 @@
-Select * from athlete_events ae 
