@@ -1,5 +1,5 @@
 # SQL-Queries-Practice-with-a-real-world-Dataset
-In this Project, I'll write SQL Queries using a real dataset downloaded from the internet. The dataset is from Kaggle and will be used to write SQL Queries to fetch different information from the dataset..........
+In this Project, I'll write SQL Queries using a real dataset downloaded from the internet. The dataset is from Kaggle and will be used to write SQL Queries to fetch different information from the dataset.........
 
 Understanding the underlying data stored across different tables will make it much easier to write SQL queries. And that is why I will use real data (real dataset) to write SQL queries in this Project.
 
