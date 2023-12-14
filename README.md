@@ -3,7 +3,7 @@ In this Project, I'll write SQL Queries using a real dataset downloaded from the
 
 Understanding the underlying data stored across different tables will make it much easier to write SQL queries. And that is why I will use real data (real dataset) to write SQL queries in this Project.
 
-First I load this dataset into a SQLite database. Meaning we store this data into database tables. Once the data is stored in tables, I then write SQL queries to fetch different information about the history of Olympic games.........................................
+First I load this dataset into a SQLite database. Meaning we store this data into database tables. Once the data is stored in tables, I then write SQL queries to fetch different information about the history of Olympic games...................................
 
 (I have come up with 20 different SQL queries which we can write on this Olympics dataset below) : 
 
